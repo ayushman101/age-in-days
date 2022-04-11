@@ -1,0 +1,30 @@
+#container{
+    align-items: center;
+    padding: 0px 100px;
+}
+.div-container{
+    border: 5px black solid;
+    text-align: center;
+}
+
+#reset{
+    display: inline;
+    margin: 0% 10%;
+}
+#click-me{
+    display: inline;
+    margin: 0% 10%;
+}
+#Click-me-btn{
+    border: 2px;
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+}
+
+#reset-btn{
+    border: 2px;
+    border-radius: 4px;
+    background-color: red;
+    color:white;
+}
